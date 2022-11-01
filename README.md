@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stoumann
+- 👀 I’m a senior frontend developer
+- 🌱 Vue.js is my tool of choise
+- 📫 stoumann.me
